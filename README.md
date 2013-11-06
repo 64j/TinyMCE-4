@@ -2,7 +2,7 @@
 
 Установка:
 
-создайте папку tinymce_4 по адресу assets/plugins/
+создать папку tinymce_4 по адресу assets/plugins/
 закинуть файлы
 создать плагин TinyMCE 4 с кодом (файйл plugin.tinymce.tpl) 
 
