@@ -1,7 +1,6 @@
 <?php
 
 $e = $modx->event;
-global $content;
 
 if ($e->name === 'OnRichTextEditorRegister') {
 	$e->output('TinyMCE 4');
